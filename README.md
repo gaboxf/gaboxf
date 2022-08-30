@@ -1,20 +1,18 @@
 ## Holaa! Me llamo Claudio Gabriel Flores 👋
 
-- 🔭 Formandome como trainee en IT
 - 🌱 Aprendiendo REACT
-- ⚡ Random: Al buscar "recursión" en Google, sugiere "Quizá quisiste decir: Recursión"
 
 <div align="center">
   <a href="https://github.com/gaboxf">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaboxf&show_icons=true&custom_title=GitHub Stats&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaboxf&layout=compact&custom_title=Lenguajes usados&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gaboxf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaboxf&layout=compact&langs_count=16&theme=github_dark">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <!--<img align="center" alt="Gabo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">-->
   <img align="center" alt="Gabo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gabo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gabo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabo-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <!--<img align="center" alt="Gabo-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">-->
   <img align="center" alt="Gabo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <!--<img align="center" alt="Gabo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">-->
   <img align="right" alt="Gabo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif">
