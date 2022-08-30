@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/gaboxf">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gaboxf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaboxf&layout=compact&langs_count=16&theme=github_dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gaboxf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaboxf&layout=compact&langs_count=16&theme=github_dark">
   </a>
 </div>
 <div style="display: inline_block"><br>
