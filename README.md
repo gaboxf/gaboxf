@@ -1,6 +1,6 @@
-## Holaa! Me llamo Claudio Gabriel Flores 👋
+## Holaa! 👋
 
-- 🌱 Aprendiendo REACT
+- 🌱 Aprendiendo
 
 <div align="center">
   <a href="https://github.com/gaboxf">
